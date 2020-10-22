@@ -1,3 +1,7 @@
+// Copyright (c) 2019-2020 Leonid Kneller. All rights reserved.
+// Licensed under the MIT license.
+// See the LICENSE file for full license information.
+
 package rnames
 
 // family -- 1000 most frequent family names from the 2010 US Census.

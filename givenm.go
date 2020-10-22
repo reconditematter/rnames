@@ -1,3 +1,7 @@
+// Copyright (c) 2019-2020 Leonid Kneller. All rights reserved.
+// Licensed under the MIT license.
+// See the LICENSE file for full license information.
+
 package rnames
 
 // givenm -- 1000 most popular male names of 2017 (US SSA data).
